@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServicesSample</string>
+    <string name="started_service">Started Service</string>
+    <string name="foreground_service">Foreground Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="bound_service">Bound Service</string>
+</resources>
